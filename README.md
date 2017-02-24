@@ -17,6 +17,7 @@ Ağ kart(lar)ının bilgilerini gösterir
 ## <code>cpu</code>
 İşlemci(ler)in bilgilerini gösterir
 ## <code>ram</code>
+<b><i>Root yetkileri gerektirir</i></b><br>
 Bellek(ler)in bilgilerini gösterir
 ## <code>hdd</code>
 Sabit disk(ler) ve bölümlerinin bilgilerini gösterir
