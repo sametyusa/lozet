@@ -21,3 +21,9 @@ Ağ kart(lar)ının bilgilerini gösterir
 Bellek(ler)in bilgilerini gösterir
 ## <code>hdd</code>
 Sabit disk(ler) ve bölümlerinin bilgilerini gösterir
+## <code> h </code>
+Yardım metnini açar
+## <code>yardim</code>
+Bkz. h
+## <code>help</code>
+Bk<. h
